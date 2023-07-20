@@ -35,6 +35,6 @@ jobs:
           plugin_lines: yes
           plugin_lines_history_limit: 10
           plugin_lines_repositories_limit: 100
-          plugin_lines_sections: base, master, main
-          repositories: 300
-          repositories_affiliations: ''
+          plugin_lines_sections: base
+
+
