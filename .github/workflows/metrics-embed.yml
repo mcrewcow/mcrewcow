@@ -23,6 +23,11 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_ignored: member, forker, deployer, follower, chatter
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
           plugin_introduction_title: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 45
