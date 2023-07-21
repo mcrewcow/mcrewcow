@@ -36,7 +36,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 5
-          plugin_lines_repositories_limit: 40
+          plugin_lines_repositories_limit: 200
           plugin_lines_sections: base
           repositories: ''
 
